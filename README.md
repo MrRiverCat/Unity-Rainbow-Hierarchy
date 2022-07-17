@@ -1,7 +1,13 @@
 # Unity Rainbow Hierarchy  彩虹Hierarchy
-Description EN：A personal implementation that mimics the Unity Assets Store's famous Rainbow plugin  
+Description EN：A personal implementation that mimics the Unity Assets Store's famous Rainbow plugin.  
 Description CN：仿照 Unity Assets Store 中最热门的 Rainbow 插件，以个人角度思考与实现 Hierarchy 面板中的彩虹效果。  
 &emsp;
+
+## 实现思路解析与分享
+You can learn about this feature implementation through the following links.  
+你可以通过以下链接配合理解实现方式 ——》 URL：https://blog.csdn.net/qq_51026638/article/details/125204689
+
+![image](https://user-images.githubusercontent.com/48646973/179403347-3bba1a3a-ac07-4481-8d25-ddcd4335f61a.png)
 
 
 

@@ -24,6 +24,10 @@ You can learn about this feature implementation through the following links.
 ![image](https://user-images.githubusercontent.com/48646973/179143204-e8bd2385-48a8-4c0f-a73a-25dbf63599b2.png)  
 
 
+## 已知问题
+1. 在进行工程打包过程中，因为该 Plugin 导致打包过程出现未知的错误异常。
+2. 初次应用于新场景中，出现空引用报错，但仅需点击后即可自动创建SO文件。
+
 
 ## 相关说明
  01. 本插件基于 Unity Editor 模式下运行。不支持 Unity Runtime 模式下下运行。  
